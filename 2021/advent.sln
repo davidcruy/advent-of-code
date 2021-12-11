@@ -1,20 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day1", "day1\day1.csproj", "{9FD6AD11-9649-4C2F-9C5E-18FB8066CE1B}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day1", "day1\day1.csproj", "{9FD6AD11-9649-4C2F-9C5E-18FB8066CE1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day2", "day2\day2.csproj", "{551B6FD0-5809-4EB9-9745-82E90A99A9C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day2", "day2\day2.csproj", "{551B6FD0-5809-4EB9-9745-82E90A99A9C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day3", "day3\day3.csproj", "{5A8CB4CA-93E8-479D-8B84-8D220C5232D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day3", "day3\day3.csproj", "{5A8CB4CA-93E8-479D-8B84-8D220C5232D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day4", "day4\day4.csproj", "{CB4BB349-85C6-460E-BF27-8327FEC17853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day4", "day4\day4.csproj", "{CB4BB349-85C6-460E-BF27-8327FEC17853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5", "day5\day5.csproj", "{61322294-3B66-484F-864E-E255A81EF8D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day5", "day5\day5.csproj", "{61322294-3B66-484F-864E-E255A81EF8D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day6", "day6\day6.csproj", "{948B79E1-C3B4-408F-A9B3-65A250BB250C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day6", "day6\day6.csproj", "{948B79E1-C3B4-408F-A9B3-65A250BB250C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day7", "day7\day7.csproj", "{DE1BBBCC-8184-478C-B92E-A1797CB2D7D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day7", "day7\day7.csproj", "{DE1BBBCC-8184-478C-B92E-A1797CB2D7D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day8", "day8\day8.csproj", "{49BAA280-A5E3-4B5E-8CBB-82B0EB0BE348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day8", "day8\day8.csproj", "{49BAA280-A5E3-4B5E-8CBB-82B0EB0BE348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day9", "day9\day9.csproj", "{F032E2B8-1DE4-47BA-ACF0-A882D6E49FBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -54,5 +59,15 @@ Global
 		{49BAA280-A5E3-4B5E-8CBB-82B0EB0BE348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49BAA280-A5E3-4B5E-8CBB-82B0EB0BE348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49BAA280-A5E3-4B5E-8CBB-82B0EB0BE348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F032E2B8-1DE4-47BA-ACF0-A882D6E49FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F032E2B8-1DE4-47BA-ACF0-A882D6E49FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F032E2B8-1DE4-47BA-ACF0-A882D6E49FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F032E2B8-1DE4-47BA-ACF0-A882D6E49FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79809CD6-0173-45BF-A7D6-A9ABFE7936E8}
 	EndGlobalSection
 EndGlobal
