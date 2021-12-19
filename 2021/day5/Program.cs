@@ -1,10 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using System;
-using System.Collections.Generic;
 using System.Drawing;
-using System.IO;
-using System.Linq;
 
 var input = File.ReadAllText("input.txt");
 
